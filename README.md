@@ -1,2 +1,2 @@
 # 2.2-Selenide
-https://ci.appveyor.com/api/projects/status/psyylgoa05hwq6o1/branch/master?svg=true
+[![Build status](https://ci.appveyor.com/api/projects/status/psyylgoa05hwq6o1?svg=true)](https://ci.appveyor.com/project/iiigogor/2-2-selenide)
